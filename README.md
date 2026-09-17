@@ -43,3 +43,4 @@ Ao final da execução, o programa aguarda uma tecla para ser encerrado.
 - `testes.c`: arquivo destinado a testes adicionais.
 - `pdf.txt`: link para acessar pdf que precisamos entregar.
 - `projeto-rede-social.pdf`: descritivo do projeto.
+- `TODO.md`: coisas pendentes do projeto.
