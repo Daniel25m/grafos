@@ -6,8 +6,8 @@ adjacência.
 ## Sobre o projeto
 
 Cada vértice possui uma lista ligada de arestas incidentes. O programa cria um
-grafo com oito vértices, adiciona algumas arestas e imprime a lista de
-adjacência de cada vértice.
+grafo com 20 vértices, adiciona as conexões entre os usuários e imprime a lista
+de adjacência de cada vértice.
 
 Uma aresta entre os vértices `v1` e `v2` é armazenada nas listas dos dois
 vértices. Laços, como uma aresta de `v7` para `v7`, são tratados sem duplicar a

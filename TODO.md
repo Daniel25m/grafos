@@ -15,36 +15,36 @@ Universidade Presbiteriana Mackenzie, 2026
 
 ### Grupo social e modelagem
 
-- [ ] Escolher o grupo social concreto: turma, clube, empresa, elenco de série etc.
-- [ ] Nomear os 20 usuários.
-- [ ] Definir os campos de cada vértice: nome, idade, curso etc.
-- [ ] Definir os campos de cada aresta: tipo de contato, tempo de amizade ou apenas a existência do contato, com justificativa.
-- [ ] Desenhar o grafo dos 20 usuários garantindo que ele exercite todas as consultas.
+- [x] Escolher o grupo social concreto: turma, clube, empresa, elenco de série etc.
+- [x] Nomear os 20 usuários.
+- [x] Definir os campos de cada vértice: nome, idade, curso etc.
+- [x] Definir os campos de cada aresta: tipo de contato, tempo de amizade ou apenas a existência do contato, com justificativa.
+- [x] Desenhar o grafo dos 20 usuários garantindo que ele exercite todas as consultas.
 
 ### Requisitos do grafo
 
-- [ ] Incluir pelo menos um usuário sem nenhum contato.
-- [ ] Incluir pelo menos um usuário com exatamente um contato.
-- [ ] Definir claramente o usuário ou os usuários com grau máximo.
-- [ ] Criar pelo menos duas componentes conexas.
-- [ ] Gerar as três imagens do documento: `imagem01`, `imagem02` e `grafo-completo`.
+- [x] Incluir pelo menos um usuário sem nenhum contato.
+- [x] Incluir pelo menos um usuário com exatamente um contato.
+- [x] Definir claramente o usuário ou os usuários com grau máximo.
+- [x] Criar pelo menos duas componentes conexas.
+- [x] Gerar as três imagens do documento: `imagem01`, `imagem02` e `grafo-completo`.
 
 ## 2. Código em C
 
-- [ ] Baixar o `Grafo_2026-2.c` do Moodle e usá-lo como base obrigatória.
-- [ ] Adaptar as structs para acomodar os dados definidos para vértices e arestas.
-- [ ] Escrever o cabeçalho com a identificação completa dos dois integrantes.
-- [ ] Inicializar, no `main`, um único grafo com valor constante contendo toda a rede.
-- [ ] Criar uma função para exibir, de forma agradável, todos os detalhes da rede social.
-- [ ] Documentar o código com comentários úteis.
-- [ ] Testar a compilação no Dev-C++ para Windows.
+- [x] Baixar o `Grafo_2026-2.c` do Moodle e usá-lo como base obrigatória.
+- [x] Adaptar as structs para acomodar os dados definidos para vértices e arestas.
+- [x] Escrever o cabeçalho com a identificação completa dos dois integrantes.
+- [x] Inicializar, no `main`, um único grafo com valor constante contendo toda a rede.
 
 ### Funções obrigatórias
 
-- [ ] Listar usuários que não contatam ninguém, ou seja, com grau 0.
-- [ ] Listar usuários que contatam exatamente uma pessoa, ou seja, com grau 1.
-- [ ] Exibir o usuário ou os usuários com mais contatos.
-- [ ] Detectar grupos isolados, isto é, componentes conexas, usando DFS ou BFS.
+- [x] Listar usuários que não contatam ninguém, ou seja, com grau 0.
+- [x] Listar usuários que contatam exatamente uma pessoa, ou seja, com grau 1.
+- [x] Exibir o usuário ou os usuários com mais contatos.
+- [x] Detectar grupos isolados, isto é, componentes conexas.
+- [x] Criar uma função para exibir, de forma agradável, todos os detalhes da rede social.
+- [x] Documentar o código com comentários úteis.
+- [ ] Testar a compilação no Dev-C++ para Windows.
 
 As mensagens exibidas pelo programa devem falar sobre o grupo social. Por
 exemplo: `Fulano não conversa com ninguém da turma`, e não: `o vértice 7 tem grau 0`.
