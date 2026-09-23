@@ -53,19 +53,18 @@ exemplo: `Fulano não conversa com ninguém da turma`, e não: `o vértice 7 tem
 
 Arquivo-base: `TG1-rede-social.tex`
 
-- [ ] Preencher a seção "O grupo social considerado".
-- [ ] Preencher a seção "Informações armazenadas em cada vértice".
-- [ ] Preencher a seção "Informações armazenadas em cada aresta".
+- [x] Preencher a seção "O grupo social considerado".
+- [x] Preencher a seção "Informações armazenadas em cada vértice".
+- [x] Preencher a seção "Informações armazenadas em cada aresta".
 - [ ] Escrever a seção de algoritmos de forma muito explicativa, incluindo:
   - [ ] ideia de cada algoritmo;
   - [ ] pseudocódigo;
   - [ ] estrutura de dados utilizada;
   - [ ] complexidade.
-- [ ] Incluir a seção de resultados com a saída do programa.
+- [x] Incluir a seção de resultados com a saída do programa.
 - [ ] Listar as fontes consultadas e indicar qual detalhe veio de cada fonte.
-- [ ] Subir as imagens no Overleaf.
-- [ ] Corrigir os nomes usados nos comandos `\includegraphics`.
-- [ ] Confirmar o nome correto do professor, pois o enunciado apresenta um nome diferente do nome da capa.
+- [x] Subir as imagens no Overleaf.
+- [ ] Confirmar o nome correto do professor.
 - [ ] Revisar a ortografia.
 - [ ] Exportar o PDF final.
 
