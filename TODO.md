@@ -71,7 +71,7 @@ Arquivo-base: `TG1-rede-social.tex`
 ## 4. Apresentação
 
 - [ ] Preparar uma apresentação de aproximadamente 6 minutos.
-- [ ] Garantir a participação dos dois integrantes.
+- [ ] Garantir a participação dos integrantes.
 - [ ] Ensaiar a apresentação cronometrando o tempo.
 
 ## 5. Entrega
@@ -79,14 +79,3 @@ Arquivo-base: `TG1-rede-social.tex`
 - [ ] Criar um único arquivo `.zip` contendo o PDF e o arquivo `.c`.
 - [ ] Publicar o arquivo no Moodle.
 - [ ] Confirmar que apenas um dos integrantes precisa realizar a publicação.
-
-## Tarefa adicional para grupos com menos de 3 alunos
-
-O enunciado prevê uma tarefa adicional para grupos com menos de três alunos:
-calcular o **índice de proximidade** de cada participante, definido como a média
-das distâncias de um vértice até todos os demais.
-
-- [ ] Confirmar com o professor se essa exigência se aplica à dupla.
-- [ ] Se for exigida, implementar BFS a partir de cada vértice.
-- [ ] Definir o tratamento para vértices em componentes distintas, cuja distância será infinita.
-- [ ] Explicar no PDF a fórmula, o algoritmo e o tratamento das distâncias infinitas.
