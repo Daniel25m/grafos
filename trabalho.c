@@ -6,7 +6,6 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<limits.h>
-#include<memory.h>
 
 // implementacao de um grafo usando uma lista de adjacencia
 
@@ -237,9 +236,8 @@ void exibirDetalhesRedeSocial(Vertice G[], int ordem){
 }
 
 // constroi a rede da turma, exibe suas consultas e libera a memoria alocada.
-int main(int argc, char *argv[]) 
+int main(void) 
 {
-    int i;
 	Vertice *G;
 	int ordemG = 20; /* vertices identificados de 0 ate 19 */
 	const char *nomes[] = {
